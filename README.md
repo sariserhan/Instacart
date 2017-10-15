@@ -3,13 +3,12 @@ Predicting the consumer’s next purchase order
 Instacart Future Order Analysis by User
 Serhan Sari
  
-Instacart
 Instacart provides grocery delivery services from selected grocery stores to consumers’ door.
 
-Problem Statement
+# Problem Statement
 Predicting which item(s) will be in a user’s next order by looking at over 3 Million historical purchase orders from more than 200,000 anonymized Instacart users. 
 
-Dataset
+# Dataset
 There are 6 different files that consist of a relation between each other which describe consumers’ orders over time. There are more than 3 million grocery orders and from more than 200,000 anonymized Instacart users which contains each users’ past purchased products from 4 to 100 in each order by weekly, daily and hourly that the order was placed and also the interval time between the orders. 
 
 1.	aisles.csv
