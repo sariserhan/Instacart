@@ -1,9 +1,6 @@
-# Instacart
-Predicting the consumer’s next purchase order
-Instacart Future Order Analysis by User
-Serhan Sari
+# Instacart Predicting the consumer’s next purchase order
  
-Instacart provides grocery delivery services from selected grocery stores to consumers’ door.
+Instacart provides grocery delivery services from selected grocery stores to consumers’ door in the USA.
 
 # Problem Statement
 Predicting which item(s) will be in a user’s next order by looking at over 3 Million historical purchase orders from more than 200,000 anonymized Instacart users. 
